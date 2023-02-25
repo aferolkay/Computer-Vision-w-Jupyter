@@ -1,0 +1,16 @@
+#
+# To activate this environment, use
+#
+#     $ conda activate python-cvcourse
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+shift+tab in function give description
+
+mat[row,col]
+
+#MATPLOTLIB --> RGB
+#OPENCV --> BGR
